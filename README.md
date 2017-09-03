@@ -8,6 +8,8 @@ $ npm install
 $ electron-packager . c9-app --platform=win32 --arch=x64
 ```
 
+Change directory to 'c9-app' and execute 'c9-app.exe'
+
 ## License
 
 [The MIT License (MIT)](LICENSE.md)
