@@ -1,18 +1,16 @@
 {
-  "name": "electron-quick-start",
-  "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "name": "c9-app",
+  "version": "0.0.2",
+  "description": "This is created to use cloud 9 service as a single application.",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/novemberde/c9-app.git",
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "c9",
+    "desktop",
+    "app"
   ],
   "author": "GitHub",
   "license": "CC0-1.0",
